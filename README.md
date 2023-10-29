@@ -3,7 +3,7 @@ Here is a collection of all my testing case studies
 
 
 
-# TestCases
+# TestCase for iStyle
 
 Below are Test cases for checking several important functionalities of the iStyle website. 
 
